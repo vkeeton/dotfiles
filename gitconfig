@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = valrie104@gmail.com
+	name = valerie keeton
